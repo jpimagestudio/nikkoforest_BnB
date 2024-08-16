@@ -1,552 +1,552 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="7.1.2" start="node5" hassounds="1" apprev="20913">
+<tour hassounds="1" start="node5" appversion="7.1.2" apprev="20913">
   <panorama id="node5">
-    <input overlap="1" levelingpitch="0" width="3842" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3842" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3842" width="3842" preload="0" predecode="0"/>
-      <level height="1921" width="1921" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
+    <input width="3842" height="3842" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3842" height="3842" predecode="0" preload="0"/>
+      <level width="1921" height="1921" predecode="0" preload="0"/>
+      <level width="960" height="960" predecode="0" preload="0"/>
+      <level width="480" height="480" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-39.7882">
-      <start fov="92.57" pan="126.66" tilt="0.45" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0.25" pan="126.25"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="訂房電話：0966-729-822&#xa;WeChat ID : a18596450669&#xa;地     址：970 花蓮縣花蓮市中山路一段138巷17-1號&#xa;官     網：http://www.nikkoforest.tw/&#xa;臉書搜尋 : 花蓮日光森林民宿" title="門口前庭" comment="" latitude="23.99959410" customnodeid="" nodeid="node5" datetime="2021/11/29 15:33" source="" info="" longitude="121.59257322" author="James Lee               " heading="-39.7882"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-228.71" tilt="-0.45" title="1F大廳入口" url="{node34}" id="Point01"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="121.59257322" author="James Lee               " description="訂房電話：0966-729-822&#xa;WeChat ID : a18596450669&#xa;地     址：970 花蓮縣花蓮市中山路一段138巷17-1號&#xa;官     網：http://www.nikkoforest.tw/&#xa;臉書搜尋 : 花蓮日光森林民宿" datetime="2021/11/29 15:33" title="門口前庭" copyright="Copyright by JP Image Space" latitude="23.99959410" nodeid="node5" info="" customnodeid="" heading="-39.7882" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-0.45" description="" url="{node34}" pan="-228.71" title="1F大廳入口"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node34">
-    <input overlap="1" levelingpitch="0" width="3838" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3838" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3838" width="3838" preload="0" predecode="0"/>
-      <level height="1919" width="1919" preload="0" predecode="0"/>
-      <level height="959" width="959" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3838" height="3838" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3838" height="3838" predecode="0" preload="0"/>
+      <level width="1919" height="1919" predecode="0" preload="0"/>
+      <level width="959" height="959" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-195.228">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|SpaceSaver" description="" title="1F大廳入口" comment="" latitude="" customnodeid="" nodeid="node34" datetime="2021/11/29 15:42" source="" info="" longitude="" author="James Lee               " heading="-195.228"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-245.35" tilt="-6.72" title="門口前庭" url="{node5}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-29.05" tilt="-11.34" title="1F留言牆" url="{node7}" id="Point02"/>
+    <userdata comment="" tags="5D3|SpaceSaver" longitude="" author="James Lee               " description="" datetime="2021/11/29 15:42" title="1F大廳入口" copyright="Copyright by JP Image Space" latitude="" nodeid="node34" info="" customnodeid="" heading="-195.228" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-6.72" description="" url="{node5}" pan="-245.35" title="門口前庭"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-11.34" description="" url="{node7}" pan="-29.05" title="1F留言牆"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node7">
-    <input overlap="1" levelingpitch="0" width="3837" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3837" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3837" width="3837" preload="0" predecode="0"/>
-      <level height="1918" width="1918" preload="0" predecode="0"/>
-      <level height="959" width="959" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3837" height="3837" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3837" height="3837" predecode="0" preload="0"/>
+      <level width="1918" height="1918" predecode="0" preload="0"/>
+      <level width="959" height="959" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-239.45">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="1F留言牆" comment="" latitude="" customnodeid="" nodeid="node7" datetime="2021/11/29 15:51" source="" info="" longitude="" author="James Lee               " heading="-239.45"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-84.16" tilt="-12.41" title="1F樓梯間" url="{node3}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-274.4" tilt="-10.68" title="1F大廳入口" url="{node34}" id="Point02"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 15:51" title="1F留言牆" copyright="Copyright by JP Image Space" latitude="" nodeid="node7" info="" customnodeid="" heading="-239.45" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-12.41" description="" url="{node3}" pan="-84.16" title="1F樓梯間"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-10.68" description="" url="{node34}" pan="-274.4" title="1F大廳入口"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node3">
-    <input overlap="1" levelingpitch="0" width="3840" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3840" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3840" width="3840" preload="0" predecode="0"/>
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
+    <input width="3840" height="3840" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3840" height="3840" predecode="0" preload="0"/>
+      <level width="1920" height="1920" predecode="0" preload="0"/>
+      <level width="960" height="960" predecode="0" preload="0"/>
+      <level width="480" height="480" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="7.4717">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="1F樓梯間" comment="" latitude="" customnodeid="" nodeid="node3" datetime="2021/11/29 15:25" source="" info="" longitude="" author="James Lee               " heading="7.4717"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-200.24" tilt="-4.17" title="1F香草綠" url="{node9}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-275.33" tilt="0.18" title="2F樓梯間" url="{node23}" id="Point02"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-20.63" tilt="0.59" title="1F留言牆" url="{node7}" id="Point03"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 15:25" title="1F樓梯間" copyright="Copyright by JP Image Space" latitude="" nodeid="node3" info="" customnodeid="" heading="7.4717" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-11.66" description="" url="{node9}" pan="-202.22" title="1F香草綠"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-1.59" description="" url="{node23}" pan="-247.2" title="2F樓梯間"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point03" tilt="-11.68" description="" url="{node7}" pan="-19.92" title="1F留言牆"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node9">
-    <input overlap="1" levelingpitch="0" width="3835" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3835" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3835" width="3835" preload="0" predecode="0"/>
-      <level height="1917" width="1917" preload="0" predecode="0"/>
-      <level height="958" width="958" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3835" height="3835" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3835" height="3835" predecode="0" preload="0"/>
+      <level width="1917" height="1917" predecode="0" preload="0"/>
+      <level width="958" height="958" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-113.926">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="1F香草綠" comment="" latitude="" customnodeid="" nodeid="node9" datetime="2021/11/29 15:11" source="" info="" longitude="" author="James Lee               " heading="-113.926"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-331.41" tilt="-11.43" title="1F香草綠遊戲間" url="{node8}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-174.96" tilt="-9.19" title="1F樓梯間" url="{node3}" id="Point02"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 15:11" title="1F香草綠" copyright="Copyright by JP Image Space" latitude="" nodeid="node9" info="" customnodeid="" heading="-113.926" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-11.43" description="" url="{node8}" pan="-331.41" title="1F香草綠遊戲間"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-9.19" description="" url="{node3}" pan="-174.96" title="1F樓梯間"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node8">
-    <input overlap="1" levelingpitch="0" width="3833" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3833" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3833" width="3833" preload="0" predecode="0"/>
-      <level height="1916" width="1916" preload="0" predecode="0"/>
-      <level height="958" width="958" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3833" height="3833" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3833" height="3833" predecode="0" preload="0"/>
+      <level width="1916" height="1916" predecode="0" preload="0"/>
+      <level width="958" height="958" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-269.63">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3" description="" title="1F香草綠遊戲間" comment="" latitude="" customnodeid="" nodeid="node8" datetime="2021/11/29 16:02" source="" info="" longitude="" author="James Lee               " heading="-269.63"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-248.64" tilt="-9.66" title="1F香草綠廁所" url="{node6}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-305.39" tilt="-11.16" title="1F香草綠" url="{node9}" id="Point03"/>
+    <userdata comment="" tags="5D3" longitude="" author="James Lee               " description="" datetime="2021/11/29 16:02" title="1F香草綠遊戲間" copyright="Copyright by JP Image Space" latitude="" nodeid="node8" info="" customnodeid="" heading="-269.63" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-9.66" description="" url="{node6}" pan="-248.64" title="1F香草綠廁所"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point03" tilt="-11.16" description="" url="{node9}" pan="-305.39" title="1F香草綠"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node6">
-    <input overlap="1" levelingpitch="0" width="3837" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3837" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3837" width="3837" preload="0" predecode="0"/>
-      <level height="1918" width="1918" preload="0" predecode="0"/>
-      <level height="959" width="959" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3837" height="3837" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3837" height="3837" predecode="0" preload="0"/>
+      <level width="1918" height="1918" predecode="0" preload="0"/>
+      <level width="959" height="959" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="49.3433">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="1F香草綠廁所" comment="" latitude="" customnodeid="" nodeid="node6" datetime="2021/11/29 15:19" source="" info="" longitude="" author="James Lee               " heading="49.3433"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-47.88" tilt="-18.01" title="1F香草綠遊戲間" url="{node8}" id="Point01"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 15:19" title="1F香草綠廁所" copyright="Copyright by JP Image Space" latitude="" nodeid="node6" info="" customnodeid="" heading="49.3433" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-12.93" description="" url="{node8}" pan="-35.99" title="1F香草綠遊戲間"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node23">
-    <input overlap="1" levelingpitch="0" width="3841" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3841" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3841" width="3841" preload="0" predecode="0"/>
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
+    <input width="3841" height="3841" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3841" height="3841" predecode="0" preload="0"/>
+      <level width="1920" height="1920" predecode="0" preload="0"/>
+      <level width="960" height="960" predecode="0" preload="0"/>
+      <level width="480" height="480" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-237.033">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="2F樓梯間" comment="" latitude="" customnodeid="" nodeid="node23" datetime="2021/11/29 14:52" source="" info="" longitude="" author="James Lee               " heading="-237.033"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-268.07" tilt="-9.22" title="2F法式玫瑰" url="{node12}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-212.71" tilt="-17.42" title="1F樓梯間" url="{node3}" id="Point02"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-88.34" tilt="-10.45" title="2F藍色星空" url="{node20}" id="Point04"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-149.73" tilt="16.21" title="3F樓梯間" url="{node26}" id="Point03"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 14:52" title="2F樓梯間" copyright="Copyright by JP Image Space" latitude="" nodeid="node23" info="" customnodeid="" heading="-237.033" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-12.51" description="" url="{node12}" pan="-269.35" title="2F法式玫瑰"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-9.68" description="" url="{node3}" pan="-214.56" title="1F樓梯間"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point04" tilt="-10.45" description="" url="{node20}" pan="-88.34" title="2F藍色星空"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point03" tilt="-0.400001" description="" url="{node26}" pan="-130.83" title="3F樓梯間"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node12">
-    <input overlap="1" levelingpitch="0" width="3842" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3842" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3842" width="3842" preload="0" predecode="0"/>
-      <level height="1921" width="1921" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
+    <input width="3842" height="3842" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3842" height="3842" predecode="0" preload="0"/>
+      <level width="1921" height="1921" predecode="0" preload="0"/>
+      <level width="960" height="960" predecode="0" preload="0"/>
+      <level width="480" height="480" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-41.3032">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="2F法式玫瑰" comment="" latitude="" customnodeid="" nodeid="node12" datetime="2021/11/29 14:57" source="" info="" longitude="" author="James Lee               " heading="-41.3032"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-70.47" tilt="-9.79" title="2F法式玫瑰廁所" url="{node16}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-267.96" tilt="-11.04" title="2F樓梯間" url="{node23}" id="Point02"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 14:57" title="2F法式玫瑰" copyright="Copyright by JP Image Space" latitude="" nodeid="node12" info="" customnodeid="" heading="-41.3032" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-10.72" description="" url="{node16}" pan="-70.6" title="2F法式玫瑰廁所"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-11.04" description="" url="{node23}" pan="-267.96" title="2F樓梯間"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node16">
-    <input overlap="1" levelingpitch="0" width="3836" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3836" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3836" width="3836" preload="0" predecode="0"/>
-      <level height="1918" width="1918" preload="0" predecode="0"/>
-      <level height="959" width="959" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3836" height="3836" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3836" height="3836" predecode="0" preload="0"/>
+      <level width="1918" height="1918" predecode="0" preload="0"/>
+      <level width="959" height="959" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="126.143">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="finaloutput" description="" title="2F法式玫瑰廁所" comment="" latitude="" customnodeid="" nodeid="node16" datetime="2022/1/6 15:08" source="" info="" longitude="" author="James Lee               " heading="126.143"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-91.78" tilt="-8.88" title="2F法式玫瑰" url="{node12}" id="Point01"/>
+    <userdata comment="" tags="finaloutput" longitude="" author="James Lee               " description="" datetime="2022/1/6 15:08" title="2F法式玫瑰廁所" copyright="Copyright by JP Image Space" latitude="" nodeid="node16" info="" customnodeid="" heading="126.143" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-11.23" description="" url="{node12}" pan="-92.06" title="2F法式玫瑰"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node19">
-    <input overlap="1" levelingpitch="0" width="3839" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3839" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3839" width="3839" preload="0" predecode="0"/>
-      <level height="1919" width="1919" preload="0" predecode="0"/>
-      <level height="959" width="959" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3839" height="3839" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3839" height="3839" predecode="0" preload="0"/>
+      <level width="1919" height="1919" predecode="0" preload="0"/>
+      <level width="959" height="959" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-191.672">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="2F藍色星空" comment="" latitude="" customnodeid="" nodeid="node19" datetime="2021/11/29 14:43" source="" info="" longitude="" author="James Lee               " heading="-191.672"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-53.19" tilt="-7.81" title="2F藍色星空廁所" url="{node22}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-356.34" tilt="-10.43" title="2F藍色星空" url="{node20}" id="Point02"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-289.06" tilt="-1.17" title="2F樓梯間" url="{node23}" id="Point03"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 14:43" title="2F藍色星空" copyright="Copyright by JP Image Space" latitude="" nodeid="node19" info="" customnodeid="" heading="-191.672" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-9.86" description="" url="{node22}" pan="-55.27" title="2F藍色星空廁所"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-10.25" description="" url="{node20}" pan="-3.4" title="2F藍色星空"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point03" tilt="-10.84" description="" url="{node23}" pan="-294.21" title="2F樓梯間"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node20">
-    <input overlap="1" levelingpitch="0" width="3841" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3841" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3841" width="3841" preload="0" predecode="0"/>
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
+    <input width="3841" height="3841" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3841" height="3841" predecode="0" preload="0"/>
+      <level width="1920" height="1920" predecode="0" preload="0"/>
+      <level width="960" height="960" predecode="0" preload="0"/>
+      <level width="480" height="480" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-246.451">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="2F藍色星空" comment="" latitude="" customnodeid="" nodeid="node20" datetime="2021/11/29 14:47" source="" info="" longitude="" author="James Lee               " heading="-246.451"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-253.42" tilt="-8.76" title="2F藍色星空" url="{node19}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-185.28" tilt="-8.2" title="2F藍色星空廁所" url="{node22}" id="Point02"/>
-      <hotspot target="" description="" skinid="ht_node" pan="-286.6" tilt="-7.16" title="2F樓梯間" url="{node23}" id="Point03"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 14:47" title="2F藍色星空" copyright="Copyright by JP Image Space" latitude="" nodeid="node20" info="" customnodeid="" heading="-246.451" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-8.76" description="" url="{node19}" pan="-253.42" title="2F藍色星空"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-7.97" description="" url="{node22}" pan="-187.92" title="2F藍色星空廁所"/>
+      <hotspot target="" skinid="ht_node" id="Point03" tilt="-7.16" description="" url="{node23}" pan="-286.6" title="2F樓梯間"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node22">
-    <input overlap="1" levelingpitch="0" width="3825" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3825" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3825" width="3825" preload="0" predecode="0"/>
-      <level height="1912" width="1912" preload="0" predecode="0"/>
-      <level height="956" width="956" preload="0" predecode="0"/>
-      <level height="478" width="478" preload="1" predecode="1"/>
+    <input width="3825" height="3825" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3825" height="3825" predecode="0" preload="0"/>
+      <level width="1912" height="1912" predecode="0" preload="0"/>
+      <level width="956" height="956" predecode="0" preload="0"/>
+      <level width="478" height="478" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="138.178">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="finaloutput" description="" title="2F藍色星空廁所" comment="" latitude="" customnodeid="" nodeid="node22" datetime="2022/1/6 15:21" source="" info="" longitude="" author="James Lee               " heading="138.178"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-265.46" tilt="-8.86" title="2F藍色星空" url="{node20}" id="Point01"/>
+    <userdata comment="" tags="finaloutput" longitude="" author="James Lee               " description="" datetime="2022/1/6 15:21" title="2F藍色星空廁所" copyright="Copyright by JP Image Space" latitude="" nodeid="node22" info="" customnodeid="" heading="138.178" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-11.09" description="" url="{node20}" pan="-263.05" title="2F藍色星空"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node26">
-    <input overlap="1" levelingpitch="0" width="3838" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3838" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3838" width="3838" preload="0" predecode="0"/>
-      <level height="1919" width="1919" preload="0" predecode="0"/>
-      <level height="959" width="959" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3838" height="3838" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3838" height="3838" predecode="0" preload="0"/>
+      <level width="1919" height="1919" predecode="0" preload="0"/>
+      <level width="959" height="959" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="finaloutput" description="" title="3F樓梯間" comment="" latitude="" customnodeid="" nodeid="node26" datetime="2021/12/1 15:30" source="" info="" longitude="" author="James Lee               " heading="0"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-13.15" tilt="-20.51" title="2F樓梯間" url="{node23}" id="Point02"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-105.17" tilt="-9.59" title="3F樓梯間廁所" url="{node43}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-63.12" tilt="-11.3" title="3F田園鄉村" url="{node33}" id="Point03"/>
+    <userdata comment="" tags="finaloutput" longitude="" author="James Lee               " description="" datetime="2021/12/1 15:30" title="3F樓梯間" copyright="Copyright by JP Image Space" latitude="" nodeid="node26" info="" customnodeid="" heading="0" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="-20.51" description="" url="{node23}" pan="-13.15" title="2F樓梯間"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-9.8" description="" url="{node43}" pan="-108.06" title="3F樓梯間廁所"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point03" tilt="-11.3" description="" url="{node33}" pan="-63.12" title="3F田園鄉村"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node43">
-    <input overlap="1" levelingpitch="0" width="2481" levelingroll="0" levelbias="0.400" leveltilesize="510" height="2481" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="2481" width="2481" preload="0" predecode="0"/>
-      <level height="1240" width="1240" preload="0" predecode="0"/>
-      <level height="620" width="620" preload="0" predecode="0"/>
-      <level height="310" width="310" preload="1" predecode="1"/>
+    <input width="2481" height="2481" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="2481" height="2481" predecode="0" preload="0"/>
+      <level width="1240" height="1240" predecode="0" preload="0"/>
+      <level width="620" height="620" predecode="0" preload="0"/>
+      <level width="310" height="310" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="131.839">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="SpaceSaver" description="" title="3F樓梯間廁所" comment="" latitude="" customnodeid="" nodeid="node43" datetime="2022/1/6 14:30" source="" info="" longitude="" author="James Lee               " heading="131.839"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-220.87" tilt="-9.68" title="3F樓梯間" url="{node26}" id="Point01"/>
+    <userdata comment="" tags="SpaceSaver" longitude="" author="James Lee               " description="" datetime="2022/1/6 14:30" title="3F樓梯間廁所" copyright="Copyright by JP Image Space" latitude="" nodeid="node43" info="" customnodeid="" heading="131.839" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-9.68" description="" url="{node26}" pan="-220.87" title="3F樓梯間"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node33">
-    <input overlap="1" levelingpitch="0" width="3840" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3840" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3840" width="3840" preload="0" predecode="0"/>
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
+    <input width="3840" height="3840" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3840" height="3840" predecode="0" preload="0"/>
+      <level width="1920" height="1920" predecode="0" preload="0"/>
+      <level width="960" height="960" predecode="0" preload="0"/>
+      <level width="480" height="480" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-138.652">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="3F田園鄉村" comment="" latitude="" customnodeid="" nodeid="node33" datetime="2021/11/29 14:03" source="" info="" longitude="" author="James Lee               " heading="-138.652"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-353.24" tilt="-8.81" title="3F田園鄉村廁所" url="{node30}" id="Point01"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-336.68" tilt="13.48" title="3F田園鄉村閣樓" url="{node31}" id="Point02"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-12.34" tilt="-8.14" title="3F樓梯間" url="{node26}" id="Point03"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 14:03" title="3F田園鄉村" copyright="Copyright by JP Image Space" latitude="" nodeid="node33" info="" customnodeid="" heading="-138.652" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-8.81" description="" url="{node30}" pan="-353.24" title="3F田園鄉村廁所"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point02" tilt="13.48" description="" url="{node31}" pan="-336.68" title="3F田園鄉村閣樓"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point03" tilt="-8.14" description="" url="{node26}" pan="-12.34" title="3F樓梯間"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node30">
-    <input overlap="1" levelingpitch="0" width="3832" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3832" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3832" width="3832" preload="0" predecode="0"/>
-      <level height="1916" width="1916" preload="0" predecode="0"/>
-      <level height="958" width="958" preload="0" predecode="0"/>
-      <level height="479" width="479" preload="1" predecode="1"/>
+    <input width="3832" height="3832" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3832" height="3832" predecode="0" preload="0"/>
+      <level width="1916" height="1916" predecode="0" preload="0"/>
+      <level width="958" height="958" predecode="0" preload="0"/>
+      <level width="479" height="479" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-154.9">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="3F田園鄉村廁所" comment="" latitude="" customnodeid="" nodeid="node30" datetime="2021/11/29 14:10" source="" info="" longitude="" author="James Lee               " heading="-154.9"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-180.66" tilt="-10.51" title="3F田園鄉村" url="{node33}" id="Point01"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 14:10" title="3F田園鄉村廁所" copyright="Copyright by JP Image Space" latitude="" nodeid="node30" info="" customnodeid="" heading="-154.9" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-10.51" description="" url="{node33}" pan="-180.66" title="3F田園鄉村"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <panorama id="node31">
-    <input overlap="1" levelingpitch="0" width="3830" levelingroll="0" levelbias="0.400" leveltilesize="510" height="3830" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000">
-      <level height="3830" width="3830" preload="0" predecode="0"/>
-      <level height="1915" width="1915" preload="0" predecode="0"/>
-      <level height="957" width="957" preload="0" predecode="0"/>
-      <level height="478" width="478" preload="1" predecode="1"/>
+    <input width="3830" height="3830" levelingpitch="0" levelbias="0.400" leveltilesize="510" levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+      <level width="3830" height="3830" predecode="0" preload="0"/>
+      <level width="1915" height="1915" predecode="0" preload="0"/>
+      <level width="957" height="957" predecode="0" preload="0"/>
+      <level width="478" height="478" predecode="1" preload="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="-81.883">
-      <start fov="92.57" pan="0" tilt="0" projection="4"/>
-      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max scaletofit="1" fov="140" pan="360" tilt="90" fovfisheye="360" fovstereographic="330"/>
+      <start projection="4" fov="100.69" tilt="0" pan="0"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fovstereographic="330" fov="140" tilt="90" fovfisheye="360" pan="360"/>
     </view>
-    <userdata copyright="Copyright by JP Image Space" tags="5D3|finaloutput" description="" title="3F田園鄉村閣樓" comment="" latitude="" customnodeid="" nodeid="node31" datetime="2021/11/29 14:16" source="" info="" longitude="" author="James Lee               " heading="-81.883"/>
-    <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
-      <label border="1" textalpha="1" width="180" background="1" height="20" enabled="1" wordwrap="1" backgroundalpha="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" textcolor="0x000000" bordercolor="0x000000"/>
-      <polystyle mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="$fwd" description="" skinid="ht_node" pan="-161.41" tilt="-8.67" title="3F田園鄉村" url="{node33}" id="Point01"/>
+    <userdata comment="" tags="5D3|finaloutput" longitude="" author="James Lee               " description="" datetime="2021/11/29 14:16" title="3F田園鄉村閣樓" copyright="Copyright by JP Image Space" latitude="" nodeid="node31" info="" customnodeid="" heading="-81.883" source=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" borderalpha="1" width="180" height="20" textalpha="1" textcolor="0x000000" wordwrap="1" backgroundalpha="1" border="1" bordercolor="0x000000" backgroundcolor="0xffffff" background="1" borderradius="1"/>
+      <polystyle borderalpha="1" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" skinid="ht_node" id="Point01" tilt="-8.67" description="" url="{node33}" pan="-161.41" title="3F田園鄉村"/>
     </hotspots>
     <media>
-      <sound ambientlevel="0.000" level="1.000" tilt="-1.000" mode="0" nodechangekeep="1" field="90.000" pansize="10.000" startmutedmobile="0" pan="-1.000" loop="1" id="_background" tiltsize="10.000">
+      <sound mode="0" nodechangekeep="1" pansize="10.000" id="_background" field="90.000" tiltsize="10.000" startmutedmobile="0" ambientlevel="0.000" level="0.600" tilt="-1.000" loop="0" pan="-1.000">
         <source mono="0" url="media/White River - Aakash Gandhi.mp3"/>
       </sound>
     </media>
-    <transition blendcolor="0x000000" zoomafterinfov="140" zoomout="0" delay="none" zoomafteroutfov="40" zoomin="0" type="crossdissolve" softedge="0" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" blendtime="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control sensitivity="8" invertwheel="0" contextvr="1" lockedkeyboard="0" hideabout="0" simulatemass="1" lockedmouse="0" rubberband="0" speedwheel="1" lockedwheel="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertcontrol="1" zoomcentercursor="1" contextfullscreen="1" contextprojections="0"/>
+    <transition enabled="1" delay="none" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000" zoomin="0" zoomout="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" invertwheel="0" sensitivity="8" zoomcentercursor="1" simulatemass="1" contextfullscreen="1" rubberband="0" invertcontrol="1" contextprojections="0" lockedwheel="0" speedwheel="1" lockedkeyboard="0" contextvr="1" lockedmouse="0"/>
   </panorama>
   <masternode>
-    <userdata copyright="" tags="" description="" title="日光森林民宿" comment="" author=""/>
+    <userdata comment="" tags="" author="JP image studio" description="" title="日光森林民宿" copyright=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <map googlecustomstylecode="" title="" type="web" mapmaxzoom="18" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" id="Map01" index="0" mapprovider="openstreetmap"/>
-  <map googlecustomstylecode="" title="" type="web" mapmaxzoom="18" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" id="Map02" index="1" mapprovider="openstreetmap"/>
-  <map googlecustomstylecode="" title="" type="web" mapmaxzoom="18" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" id="Map03" index="2" mapprovider="openstreetmap"/>
+  <map googlecustomstylecode="" type="web" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" id="Map01" mapmaxzoom="18" title="" index="0"/>
+  <map googlecustomstylecode="" type="web" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" id="Map02" mapmaxzoom="18" title="" index="1"/>
+  <map googlecustomstylecode="" type="web" mapstyle="streets" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" mapprovider="openstreetmap" id="Map03" mapmaxzoom="18" title="" index="2"/>
 </tour>
